@@ -1,0 +1,6 @@
+linter.txt
+setup.cfg
+.vscode/
+venv/
+.gitignore
+db.sqlite3
